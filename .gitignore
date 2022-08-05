@@ -11,3 +11,38 @@ node_modules
 /src/.vs/Blazor.SignaturePad/DesignTimeBuild/.dtbcache.v2
 /src/Blazor.SignaturePad.csproj.vspscc
 /src/Blazor.SignaturePad.sln
+
+#Visual Studio Related
+*.suo
+*.vssscc
+*.scc
+*.vspscc
+*.vscode
+
+#Compiled
+**/bin
+**/obj
+**/Publish
+
+#Output 
+**/log
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# local Cert files
+cert/
+
+# personal config
+*.user
+*.csproj.user
