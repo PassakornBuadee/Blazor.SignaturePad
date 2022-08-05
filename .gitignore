@@ -3,6 +3,7 @@ obj
 pub
 test
 node_modules
+/samples
 /.vs/Blazor.SignaturePad/v16/.suo
 /.vs/ProjectSettings.json
 /.vs/slnx.sqlite
